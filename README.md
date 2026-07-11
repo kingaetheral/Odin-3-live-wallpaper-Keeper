@@ -89,7 +89,7 @@ doing its job.
 
 ## Recommended companion setting
 
-The module treats the symptom. The underlying cause is usually the wallpaper
+The underlying cause is usually the wallpaper
 provider being killed at boot. For best results, also exclude the wallpaper app
 from battery optimization:
 

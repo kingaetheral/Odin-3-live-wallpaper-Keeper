@@ -1,0 +1,6 @@
+id=live_wallpaper_keeper
+name=Live Wallpaper Keeper
+version=v1.0.0
+versionCode=1
+author=KingAether
+description=Keeps your live wallpaper from reverting to default after reboot. Backs up wallpaper_info.xml when the wallpaper is healthy and restores it at boot if it reverted, then reloads the wallpaper service.
